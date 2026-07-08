@@ -1,0 +1,414 @@
+{
+  "version": 1,
+
+  "heroes": [
+    {
+      "campus": "Gilbert",
+      "title": "Summer in the Psalms | Paul Earle | 6.14.26",
+      "videoId": "m2qDDnWe-eI",
+      "thumbnailUrl": "https://i.ytimg.com/vi/m2qDDnWe-eI/maxresdefault.jpg",
+      "date": "Jun 14, 2026",
+      "youtubeUrl": "https://www.youtube.com/live/m2qDDnWe-eI"
+    },
+    {
+      "campus": "Scottsdale",
+      "title": "What to do when Life is Unclear | Mark Earle | 6.14.26",
+      "videoId": "8tT_vjf0PgU",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8tT_vjf0PgU/maxresdefault.jpg",
+      "date": "Jun 14, 2026",
+      "youtubeUrl": "https://youtu.be/8tT_vjf0PgU"
+    }
+  ],
+
+  "sermons": [
+    {
+      "videoId": "m2qDDnWe-eI",
+      "title": "Summer in the Psalms | Paul Earle | 6.14.26",
+      "campus": "Gilbert",
+      "date": "Jun 14, 2026",
+      "youtubeUrl": "https://www.youtube.com/live/m2qDDnWe-eI",
+      "thumbnailUrl": "https://i.ytimg.com/vi/m2qDDnWe-eI/maxresdefault.jpg"
+    },
+    {
+      "videoId": "8tT_vjf0PgU",
+      "title": "What to do when Life is Unclear | Mark Earle | 6.14.26",
+      "campus": "Scottsdale",
+      "date": "Jun 14, 2026",
+      "youtubeUrl": "https://youtu.be/8tT_vjf0PgU",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8tT_vjf0PgU/maxresdefault.jpg"
+    },
+    {
+      "videoId": "g5qLQlsF-qs",
+      "title": "Be Strong & Courageous | Part 8 | Joshua 24:14-18 | Pastor Paul Earle",
+      "campus": "Gilbert",
+      "date": "Jun 8, 2026",
+      "youtubeUrl": "https://www.youtube.com/live/g5qLQlsF-qs",
+      "thumbnailUrl": "https://i.ytimg.com/vi/g5qLQlsF-qs/maxresdefault.jpg"
+    },
+    {
+      "videoId": "4N5axjcEZvE",
+      "title": "Go to the source | Mark Earle | Valley Chapel Scottsdale",
+      "campus": "Scottsdale",
+      "date": "Jun 8, 2026",
+      "youtubeUrl": "https://www.youtube.com/live/4N5axjcEZvE",
+      "thumbnailUrl": "https://i.ytimg.com/vi/4N5axjcEZvE/maxresdefault.jpg"
+    },
+    {
+      "videoId": "GYjk3hiKOt4",
+      "title": "These Patterns Will Sustain You | Mark Earle | Valley Chapel Scottsdale",
+      "campus": "Scottsdale",
+      "date": "Jun 1, 2025",
+      "youtubeUrl": "https://www.youtube.com/live/GYjk3hiKOt4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/GYjk3hiKOt4/maxresdefault.jpg"
+    },
+    {
+      "videoId": "63tzjRVS4dU",
+      "title": "Be Strong & Courageous | Part 7 | Joshua 22:10-43 | Guest Speaker - Pastor Caleb McMains",
+      "campus": "Gilbert",
+      "date": "Jun 1, 2025",
+      "youtubeUrl": "https://www.youtube.com/live/63tzjRVS4dU",
+      "thumbnailUrl": "https://i.ytimg.com/vi/63tzjRVS4dU/maxresdefault.jpg"
+    },
+    {
+      "videoId": "h1InDoq3pRA",
+      "title": "No Matter the Season, Go to God | Week 5 | Mark Earle | Valley Chapel",
+      "campus": "Scottsdale",
+      "date": "May 25, 2025",
+      "youtubeUrl": "https://www.youtube.com/live/h1InDoq3pRA",
+      "thumbnailUrl": "https://i.ytimg.com/vi/h1InDoq3pRA/maxresdefault.jpg"
+    },
+    {
+      "videoId": "PlNGBrXeSqw",
+      "title": "Be Strong & Courageous | Part 6 | Joshua 21:43-45 | Pastor Paul Earle",
+      "campus": "Gilbert",
+      "date": "May 25, 2025",
+      "youtubeUrl": "https://www.youtube.com/live/PlNGBrXeSqw",
+      "thumbnailUrl": "https://i.ytimg.com/vi/PlNGBrXeSqw/maxresdefault.jpg"
+    },
+    {
+      "videoId": "rLtN7CK9ORU",
+      "title": "The Power of Patterns | Mark Earle | Valley Chapel Scottsdale",
+      "campus": "Scottsdale",
+      "date": "May 18, 2025",
+      "youtubeUrl": "https://www.youtube.com/live/rLtN7CK9ORU",
+      "thumbnailUrl": "https://i.ytimg.com/vi/rLtN7CK9ORU/maxresdefault.jpg"
+    },
+    {
+      "videoId": "S5h_ZIsjeCk",
+      "title": "Be Strong & Courageous | Part 5 | Joshua 10:12-14 & 24-25 | Pastor Paul Earle",
+      "campus": "Gilbert",
+      "date": "May 18, 2025",
+      "youtubeUrl": "https://www.youtube.com/live/S5h_ZIsjeCk",
+      "thumbnailUrl": "https://i.ytimg.com/vi/S5h_ZIsjeCk/maxresdefault.jpg"
+    }
+  ],
+
+  "newsItems": [
+    {
+      "id": "1",
+      "title": "Valley Culture",
+      "subtitle": "Become a member · Discover your purpose",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/images/news-valley-culture.jpg",
+      "inAppUrl": "https://www.valleychapelaz.com/valleyculture"
+    },
+    {
+      "id": "2",
+      "title": "Summer in the Valley",
+      "subtitle": "Starts June · Summer Bash 7/26",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/images/news-summer-valley.jpg",
+      "inAppUrl": ""
+    },
+    {
+      "id": "3",
+      "title": "Red Ink",
+      "subtitle": "Young Adults · Less of me, more of Him",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/images/news-red-ink.jpg",
+      "inAppUrl": "https://valleychapelaz.churchcenter.com/groups/gilbert/red-ink"
+    },
+    {
+      "id": "4",
+      "title": "Serve Our City",
+      "subtitle": "Monthly Outreaches",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/images/news-serve-city.jpg",
+      "inAppUrl": ""
+    },
+    {
+      "id": "5",
+      "title": "Rooted",
+      "subtitle": "Est. 2026",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/images/news-rooted.jpg",
+      "inAppUrl": "https://www.instagram.com/rootedvc?igsh=ZHR6a2EzOW5wOTd3"
+    }
+  ],
+
+  "readingPlans": [
+    {
+      "id": "anxiety-to-peace",
+      "enabled": true,
+      "order": 1,
+      "title": "Anxiety to Peace",
+      "subtitle": "A 5-Day Bible Plan",
+      "author": "Pastor Mark Earle",
+      "description": "Anxiety is one of the most common struggles people face. God never promises a life free from problems, but He does promise His presence, peace, and strength in every season. Over the next five days, you'll discover what Scripture teaches about anxiety and learn how to replace fear with faith, worry with prayer, and panic with trust in God's sovereign care.",
+      "accentColor": "#4EB6AC",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/images/plan-anxiety.jpg",
+      "finalThought": "\"Anxiety grows when we focus on what we cannot control. Peace grows when we focus on the God who controls all things. Whatever you're facing today, remember: God is not surprised, God is not absent, and God is not finished with your story.\"",
+      "finalThoughtAuthor": "Pastor Mark Earle",
+      "days": [
+        {
+          "day": 1,
+          "title": "God Knows What You're Carrying",
+          "scripture": "Matthew 11:28-30",
+          "devotional": "Anxiety often convinces us that we must carry every burden ourselves. Jesus offers a different invitation: \"Come to Me.\" He doesn't ask us to fix everything before approaching Him. He simply asks us to come.\n\nWhatever is weighing on your heart today—finances, relationships, health, or the future—Jesus is strong enough to carry it. Peace begins when we stop pretending we're in control and place our burdens into His hands.",
+          "reflection": "What burden have you been carrying that God is asking you to surrender today?",
+          "prayer": "Lord, I bring my worries and fears to You. Help me trust that You are carrying what I cannot. Amen."
+        },
+        {
+          "day": 2,
+          "title": "Prayer Is the Antidote to Worry",
+          "scripture": "Philippians 4:6-7",
+          "devotional": "Paul gives a simple but powerful command: \"Do not be anxious about anything.\" That sounds impossible until we read the rest of the verse. Instead of worrying, we are called to pray.\n\nPrayer is not pretending problems don't exist. Prayer is bringing our problems to the One who is greater than them. God's peace doesn't always remove the storm, but it guards our hearts in the middle of it.",
+          "reflection": "Are you spending more time worrying about your situation or praying about it?",
+          "prayer": "Father, teach me to replace anxiety with prayer. Fill my heart with Your peace today. Amen."
+        },
+        {
+          "day": 3,
+          "title": "Trust God's Care",
+          "scripture": "Matthew 6:25-34",
+          "devotional": "Jesus points to birds and flowers as reminders of God's care. If God faithfully provides for them, how much more does He care for His children?\n\nAnxiety often comes from trying to live tomorrow's problems today. Jesus reminds us that each day has enough trouble of its own. God gives grace for today's needs, not tomorrow's imagined disasters.",
+          "reflection": "What future concern is stealing your peace today?",
+          "prayer": "Lord, help me focus on today's faithfulness rather than tomorrow's uncertainties. I trust You to provide what I need. Amen."
+        },
+        {
+          "day": 4,
+          "title": "Cast Your Cares on Him",
+          "scripture": "1 Peter 5:6-7",
+          "devotional": "Peter tells believers to cast their anxieties on God because He cares for them. The word \"cast\" means to throw something completely onto another.\n\nMany people give their worries to God only to pick them back up a few minutes later. Real trust means leaving those concerns in His hands and believing He is working even when we cannot see it.",
+          "reflection": "What worry do you keep taking back after giving it to God?",
+          "prayer": "God, I choose to place my anxieties in Your hands. Help me trust Your care and Your timing. Amen."
+        },
+        {
+          "day": 5,
+          "title": "The Peace of Christ Rules",
+          "scripture": "Colossians 3:15",
+          "devotional": "The Christian life is not the absence of difficulty but the presence of Christ. His peace is available even when circumstances are challenging.\n\nAs you finish this plan, remember that peace is not found in having all the answers. Peace is found in knowing the One who holds tomorrow. God has been faithful before, and He will be faithful again.",
+          "reflection": "How has God shown His faithfulness in your life in the past?",
+          "prayer": "Jesus, thank You for being my peace. Help me walk forward in confidence, knowing You are with me every step of the way. Amen."
+        }
+      ]
+    },
+    {
+      "id": "hope-in-despair",
+      "enabled": true,
+      "order": 2,
+      "title": "Hope in the Face of Despair",
+      "subtitle": "A 7-Day Bible Plan",
+      "author": "Pastor Paul Earle",
+      "description": "Despair can make the world feel dark and God feel distant. But Scripture is filled with people who faced crushing hopelessness—and found God faithful in the depths. Over the next seven days, we will walk through stories and promises that anchor our souls when the storms of life threaten to overwhelm us. Hope is not a feeling. Hope is a Person.",
+      "accentColor": "#3A8CC4",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/images/plan-hope.jpg",
+      "finalThought": "\"When you cannot see the way forward, remember that God has not lost the map. He is writing a story you cannot yet read. Stay the course. Dawn always follows the darkest night.\"",
+      "finalThoughtAuthor": "Pastor Paul Earle",
+      "days": [
+        {
+          "day": 1,
+          "title": "When Hope Feels Gone",
+          "scripture": "Lamentations 3:19-24",
+          "devotional": "Jeremiah wrote Lamentations in the rubble of a destroyed Jerusalem. He didn't sugarcoat the pain: \"I have been deprived of peace; I have forgotten what prosperity is.\" Yet in the very next breath he turned his eyes upward: \"The steadfast love of the Lord never ceases.\"\n\nDespair says nothing will ever change. Scripture says God's mercies are new every single morning. The same God who met Jeremiah in the ashes will meet you right where you are today.",
+          "reflection": "What situation feels most hopeless to you right now? Are you willing to bring it to God honestly?",
+          "prayer": "Lord, I won't pretend things are fine when they're not. I bring my despair to You. Remind me that Your mercy is new this morning. Amen."
+        },
+        {
+          "day": 2,
+          "title": "The God Who Sees",
+          "scripture": "Genesis 16:13-14",
+          "devotional": "Hagar was alone, cast out, and hopeless in the wilderness. Yet God met her there and gave her a promise. She named Him \"El Roi\"—the God who sees me.\n\nWhen despair isolates you and makes you feel invisible, remember Hagar. God does not overlook the brokenhearted. He sees every tear, every sleepless night, every prayer whispered into silence. You are not hidden from Him.",
+          "reflection": "Do you believe God truly sees your pain right now? What would it mean to trust that He does?",
+          "prayer": "El Roi, God who sees me—thank You that I am never invisible to You. Help me find comfort in being fully known and fully loved. Amen."
+        },
+        {
+          "day": 3,
+          "title": "From the Pit to Praise",
+          "scripture": "Psalm 40:1-3",
+          "devotional": "David describes waiting on God from a \"desolate pit\" and \"miry bog.\" These are not polite metaphors—they describe genuine desperation. But he also describes what happened next: God lifted him out, set his feet on rock, and put a new song in his mouth.\n\nThe pit is not your permanent address. God specializes in rescues. Sometimes He lifts us out quickly; sometimes the waiting tests our faith. But He always comes.",
+          "reflection": "Can you think of a time God brought you out of a dark season? How can that story fuel your hope today?",
+          "prayer": "Father, I am waiting for You to lift me out of this pit. Give me the faith to trust Your timing and the courage to wait. Amen."
+        },
+        {
+          "day": 4,
+          "title": "Anchored in the Storm",
+          "scripture": "Hebrews 6:17-19",
+          "devotional": "The writer of Hebrews calls hope \"an anchor for the soul, firm and secure.\" Anchors don't stop the storm. They hold the ship in place when the waves come.\n\nBiblical hope is not wishful thinking. It is certainty grounded in the character of God. When feelings of despair rise like waves, our anchor is God's unchanging promises. You may feel shaken, but you will not be swept away.",
+          "reflection": "What promise from God's Word can you hold onto as an anchor today?",
+          "prayer": "Lord, when the waves of despair crash over me, remind me that I am anchored to You. Let Your promises steady my soul. Amen."
+        },
+        {
+          "day": 5,
+          "title": "The Valley of Dry Bones",
+          "scripture": "Ezekiel 37:1-6",
+          "devotional": "God brought Ezekiel to a valley full of dry bones and asked, \"Can these bones live?\" It was a question about resurrection—about whether God could bring life to what appeared completely dead.\n\nPerhaps your marriage, your health, your faith, or your future looks like dry bones right now. God is asking you the same question: \"Can these bones live?\" The answer is always yes when God is involved. He is the God of resurrection.",
+          "reflection": "What area of your life have you nearly given up on? What would it look like to hand it back to God?",
+          "prayer": "God of resurrection, speak life over the dry places in me. I believe You can make dead things live again. Amen."
+        },
+        {
+          "day": 6,
+          "title": "He Restores the Broken",
+          "scripture": "Psalm 147:3",
+          "devotional": "\"He heals the brokenhearted and binds up their wounds.\" This single verse captures something profound about God's character—He is drawn to the broken.\n\nThe world often discards what is broken. God collects it. He is the potter who reshapes the marred clay (Jeremiah 18), the shepherd who leaves the ninety-nine for the one (Luke 15), and the father who runs to the returning prodigal (Luke 15). Your brokenness is not a barrier to God's love—it is an invitation.",
+          "reflection": "How has brokenness made you feel about your relationship with God? Is there a wound you need to let Him bind up?",
+          "prayer": "Healer, I bring You my broken places. Bind up my wounds, reshape what has been marred, and restore what the enemy has stolen. Amen."
+        },
+        {
+          "day": 7,
+          "title": "Hope Does Not Disappoint",
+          "scripture": "Romans 5:3-5",
+          "devotional": "Paul writes that suffering produces perseverance, which produces character, which produces hope. Hope, in Scripture, is not the absence of suffering—it is the fruit that grows from walking through it with God.\n\nAs you close this seven-day journey, know this: the despair that drove you here has not been wasted. God is at work in and through every painful season. The same love that raised Jesus from the dead is working all things together for good in your life.",
+          "reflection": "How have you seen God at work even in this difficult season? What step of faith will you take this week?",
+          "prayer": "Lord, thank You that hope does not disappoint because Your love never fails. Lead me forward from despair to the hope that is found only in You. Amen."
+        }
+      ]
+    },
+    {
+      "id": "holy-spirit",
+      "enabled": true,
+      "order": 3,
+      "title": "Living in the Spirit",
+      "subtitle": "A 7-Day Bible Plan",
+      "author": "Pastor Paul Earle",
+      "description": "The Holy Spirit is not a force or a feeling—He is a Person, and He is God. Many believers live far below what God intends because they have never learned to walk in step with the Spirit. Over seven days, we will explore who the Holy Spirit is, what He does, and how to live a life fully surrendered to His leading.",
+      "accentColor": "#3768C8",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/images/plan-spirit.jpg",
+      "finalThought": "\"The Spirit-filled life is not a special class of Christianity. It is the only kind of Christianity Christ intends for all of His people. Don't settle for anything less than everything God has for you.\"",
+      "finalThoughtAuthor": "Pastor Paul Earle",
+      "days": [
+        {
+          "day": 1,
+          "title": "Who Is the Holy Spirit?",
+          "scripture": "John 14:15-17",
+          "devotional": "Jesus called the Holy Spirit the \"Helper\"—the One who would come alongside His followers after His departure. He is not an \"it.\" He is not a vague spiritual energy. He is the third Person of the Trinity, equal in nature to the Father and the Son.\n\nJesus described Him as one who would \"be with you forever\" and live inside of you. The Christian life is not about trying harder to follow rules—it is about yielding to the Spirit who lives within you.",
+          "reflection": "How have you thought about the Holy Spirit in the past? As a force, a feeling, or a Person?",
+          "prayer": "Holy Spirit, I want to know You more deeply. Open my eyes to who You truly are and how You want to work in my life. Amen."
+        },
+        {
+          "day": 2,
+          "title": "The Spirit Who Transforms",
+          "scripture": "2 Corinthians 3:17-18",
+          "devotional": "Paul writes that we are being transformed \"from glory to glory\" by the Spirit of the Lord. Transformation is not our job—it is His. Our job is to yield.\n\nSanctification is not self-improvement. It is surrender. The more we yield our desires, our plans, and our habits to the Spirit, the more we reflect the image of Jesus. Lasting change comes not by willpower but by the Spirit's work in willing hearts.",
+          "reflection": "Where in your life are you striving in your own strength rather than yielding to the Spirit's work?",
+          "prayer": "Lord, I yield my heart to You. Transform me from the inside out. Change what only You can change. Amen."
+        },
+        {
+          "day": 3,
+          "title": "Led by the Spirit",
+          "scripture": "Romans 8:14",
+          "devotional": "\"For all who are led by the Spirit of God are sons of God.\" Being led by the Spirit is one of the defining marks of a believer. But what does that look like practically?\n\nThe Spirit leads through Scripture, through prayer, through counsel, through circumstances, and through the quiet inner witness of our conscience. Learning to hear and follow His voice requires practice, patience, and a willingness to obey even when the path is unclear.",
+          "reflection": "Is there an area of your life where you sense the Spirit leading you somewhere you have been resisting?",
+          "prayer": "Holy Spirit, I want to be led by You. Speak clearly to my heart, and give me the courage to follow wherever You lead. Amen."
+        },
+        {
+          "day": 4,
+          "title": "The Fruit of the Spirit",
+          "scripture": "Galatians 5:22-23",
+          "devotional": "Love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control. These nine qualities are the fruit of a Spirit-filled life. They are not a checklist to perform—they are the natural overflow of a life surrendered to God.\n\nFruits grow on trees that are connected to their roots. When we stay rooted in Christ—through prayer, Scripture, community, and worship—the Spirit produces His fruit in us naturally. Where is the fruit thin in your life? That may be a sign of disconnection from the vine.",
+          "reflection": "Which fruit of the Spirit is most underdeveloped in your life right now? What might be the root cause?",
+          "prayer": "Father, help me stay rooted in You so that the Spirit can produce His fruit in every area of my life. Amen."
+        },
+        {
+          "day": 5,
+          "title": "Do Not Grieve the Spirit",
+          "scripture": "Ephesians 4:29-32",
+          "devotional": "Paul's warning not to \"grieve the Holy Spirit\" reveals something tender: the Spirit can be hurt by our choices. Bitterness, corrupt talk, malice—these things wound the One who lives within us.\n\nOne of the greatest invitations of the Christian life is to become more sensitive to the Spirit's presence. When we are about to speak harshly or harbor resentment, the Spirit nudges us. The question is whether we are listening.",
+          "reflection": "Is there anything in your life right now that may be grieving the Holy Spirit? What needs to change?",
+          "prayer": "Holy Spirit, forgive me for the times I've ignored Your voice. Soften my heart and make me sensitive to Your leading. Amen."
+        },
+        {
+          "day": 6,
+          "title": "Filled and Refilled",
+          "scripture": "Ephesians 5:18",
+          "devotional": "Paul's command to \"be filled with the Spirit\" is written in the present continuous tense—be being filled, continually. This is not a one-time event but an ongoing experience.\n\nMost of us experience spiritual leaks. The pressures of life drain us. Daily surrender, daily prayer, and daily intake of God's Word are the means by which God refills what life empties. The Spirit-filled life is not a destination—it is a daily dependence.",
+          "reflection": "Are you experiencing the fullness of the Spirit today, or do you need to ask God to refill you?",
+          "prayer": "Lord, fill me again today. Where I'm running low, pour in more of Your Spirit. I choose dependence over self-sufficiency. Amen."
+        },
+        {
+          "day": 7,
+          "title": "Walking in Step with the Spirit",
+          "scripture": "Galatians 5:25",
+          "devotional": "\"If we live by the Spirit, let us also walk by the Spirit.\" To walk in step with the Spirit means to move at His pace, in His direction, for His purposes.\n\nAs you conclude this plan, commit to one practice: before making a significant decision this week, pause and ask, \"Holy Spirit, what do You want here?\" This simple habit, practiced consistently, will transform your life more than almost anything else. The Spirit is not silent. He is waiting to be invited.",
+          "reflection": "What would it look like for you to walk more intentionally in step with the Spirit this week?",
+          "prayer": "Holy Spirit, lead me. I don't want to walk ahead of You or fall behind. Keep me in step with Your purposes today and every day. Amen."
+        }
+      ]
+    },
+    {
+      "id": "trusting-god",
+      "enabled": true,
+      "order": 4,
+      "title": "Trusting God",
+      "subtitle": "A 7-Day Bible Plan",
+      "author": "Pastor Mark Earle",
+      "description": "Trust is easy to talk about and hard to practice—especially when life does not go the way we planned. Yet trust is at the very heart of the Christian life. Over the next seven days, we will explore what it means to genuinely trust God: not just with words, but with our fears, our plans, our failures, and our future.",
+      "accentColor": "#3535C0",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/images/plan-trust.jpg",
+      "finalThought": "\"God has never once failed to be faithful. Your circumstances may be uncertain, but His character is not. Choose trust—not because it is easy, but because He is worthy.\"",
+      "finalThoughtAuthor": "Pastor Mark Earle",
+      "days": [
+        {
+          "day": 1,
+          "title": "Trust Is a Choice",
+          "scripture": "Proverbs 3:5-6",
+          "devotional": "\"Trust in the Lord with all your heart and lean not on your own understanding.\" This verse is so familiar we can miss how radical it is. God is not asking us to trust Him when it makes sense. He is asking us to trust Him when it doesn't.\n\nTrust is not a feeling that arrives automatically—it is a daily decision. It means choosing to believe that God is good, God is in control, and God is working even when we cannot see it. That choice, made moment by moment, is the foundation of a life of faith.",
+          "reflection": "Where are you currently leaning on your own understanding rather than trusting God?",
+          "prayer": "Lord, I choose to trust You today—not because everything makes sense, but because You are good. Direct my path. Amen."
+        },
+        {
+          "day": 2,
+          "title": "When God's Plan Doesn't Look Like Yours",
+          "scripture": "Isaiah 55:8-9",
+          "devotional": "\"My thoughts are not your thoughts, neither are your ways My ways.\" There is no verse that better captures the gap between what we expect from God and what He actually does.\n\nWe plan, and God redirects. We expect one outcome, and He provides another. This can feel like abandonment when it is actually guidance. God sees the whole story; we see only the chapter we're in. Learning to trust His bigger plan when ours falls apart is one of the most transformative lessons a believer can learn.",
+          "reflection": "Is there an area where God's plan and yours are not aligning? How are you responding to that tension?",
+          "prayer": "Father, help me trust Your plan even when I don't understand it. Your ways are higher, and I choose to believe that today. Amen."
+        },
+        {
+          "day": 3,
+          "title": "The Steadfast Love of the Lord",
+          "scripture": "Psalm 136:1",
+          "devotional": "Psalm 136 repeats one refrain twenty-six times: \"His steadfast love endures forever.\" The repetition is intentional—it is hammering a truth into our souls that our circumstances often contradict.\n\nTrust grows when we dwell on what God has done. The psalmist recounts creation, the Exodus, provision in the wilderness—all evidence of God's faithfulness. What has God done in your life that you can remember today? Gratitude for the past is often the bridge to trust in the present.",
+          "reflection": "List three specific times God has been faithful to you. How do those moments inform your trust today?",
+          "prayer": "Lord, Your steadfast love endures forever. Help me remember what You've done so I can trust You with what lies ahead. Amen."
+        },
+        {
+          "day": 4,
+          "title": "Trusting God With Unanswered Prayer",
+          "scripture": "2 Corinthians 12:7-10",
+          "devotional": "Paul prayed three times for his \"thorn\" to be removed. God said no. This was not a failure of faith—it was an invitation into a deeper kind of trust.\n\nSome of our most sincere prayers go unanswered in the way we hoped. God's silence is not indifference. Often, He is doing something deeper than answering our specific request—He is building a character in us that could not be forged any other way. Trust Him with the prayers He hasn't answered the way you wanted.",
+          "reflection": "What prayer have you been waiting on God to answer? How is the waiting shaping your character?",
+          "prayer": "God, I trust You even with the prayers You haven't answered the way I hoped. Your grace is sufficient. That is enough. Amen."
+        },
+        {
+          "day": 5,
+          "title": "Trust and Obey",
+          "scripture": "Hebrews 11:8",
+          "devotional": "Abraham left for a land \"not knowing where he was going.\" He trusted God enough to move before he had all the answers. That is the model of biblical faith.\n\nTrust without obedience is just an idea. Real trust shows up in action—when we tithe even when the budget is tight, when we forgive even when the wound is fresh, when we step out even when the next step is unclear. What is God asking you to trust Him with through obedience today?",
+          "reflection": "Is there a step of obedience you've been delaying because you're waiting for more certainty?",
+          "prayer": "Lord, give me the faith to obey even when I can't see the full picture. I trust that You will lead me as I step forward. Amen."
+        },
+        {
+          "day": 6,
+          "title": "In the Hands of a Good Father",
+          "scripture": "Matthew 7:9-11",
+          "devotional": "Jesus asks a disarming question: \"Which of you, if your son asks for bread, will give him a stone?\" His point is simple—a good earthly father gives good gifts. How much more does your heavenly Father?\n\nTrust is easier when we see God not as a distant authority but as a good Father who delights in giving good things to His children. He is not withholding from you to punish you. He is providing for you—often in ways you have not yet recognized.",
+          "reflection": "Do you relate to God more like a judge or a good Father? How does that perception affect your ability to trust Him?",
+          "prayer": "Abba Father, remind me that You are good and that You delight in giving good things to Your children. Let that truth transform how I trust You. Amen."
+        },
+        {
+          "day": 7,
+          "title": "The Rest That Comes From Trust",
+          "scripture": "Matthew 11:28-30",
+          "devotional": "Jesus ends our journey where He often begins: with an invitation to rest. \"Come to Me, all who are weary and burdened, and I will give you rest.\" The deepest rest is not physical—it is the rest that comes from finally, fully trusting God.\n\nWhen we stop trying to control outcomes, stop demanding our plan be followed, and stop carrying what only God can carry, we discover a peace that surpasses understanding. Trust is not weakness. Trust is the strongest thing you can do.",
+          "reflection": "What would it feel like to fully release control of your biggest concern to God today?",
+          "prayer": "Jesus, I come to You tired of striving and carrying what was never mine to carry. I choose rest. I choose trust. I choose You. Amen."
+        }
+      ]
+    }
+  ]
+}

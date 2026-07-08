@@ -108,35 +108,35 @@
       "id": "1",
       "title": "Valley Culture",
       "subtitle": "Become a member · Discover your purpose",
-      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/images/news-valley-culture.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/featured2.jpg",
       "inAppUrl": "https://www.valleychapelaz.com/valleyculture"
     },
     {
       "id": "2",
       "title": "Summer in the Valley",
       "subtitle": "Starts June · Summer Bash 7/26",
-      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/images/news-summer-valley.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/news-summer-valley.png",
       "inAppUrl": ""
     },
     {
       "id": "3",
       "title": "Red Ink",
       "subtitle": "Young Adults · Less of me, more of Him",
-      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/images/news-red-ink.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/news-red-ink.png",
       "inAppUrl": "https://valleychapelaz.churchcenter.com/groups/gilbert/red-ink"
     },
     {
       "id": "4",
       "title": "Serve Our City",
       "subtitle": "Monthly Outreaches",
-      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/images/news-serve-city.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/news-serve-city.png",
       "inAppUrl": ""
     },
     {
       "id": "5",
       "title": "Rooted",
       "subtitle": "Est. 2026",
-      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/images/news-rooted.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/news-rooted.png",
       "inAppUrl": "https://www.instagram.com/rootedvc?igsh=ZHR6a2EzOW5wOTd3"
     }
   ],

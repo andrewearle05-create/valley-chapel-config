@@ -1,6 +1,5 @@
 {
   "version": 1,
-
   "heroes": [
     {
       "campus": "Gilbert",
@@ -12,14 +11,13 @@
     },
     {
       "campus": "Scottsdale",
-      "title": "What to do when Life is Unclear | Mark Earle | 6.14.26",
-      "videoId": "8tT_vjf0PgU",
-      "thumbnailUrl": "https://i.ytimg.com/vi/8tT_vjf0PgU/maxresdefault.jpg",
-      "date": "Jun 14, 2026",
-      "youtubeUrl": "https://youtu.be/8tT_vjf0PgU"
+      "title": "Don't waste your wait | 6.28.26 | Mark Earle",
+      "videoId": "dpi2PMNV5M0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/dpi2PMNV5M0/maxresdefault.jpg",
+      "date": "Jun 28, 2026",
+      "youtubeUrl": "https://youtu.be/dpi2PMNV5M0"
     }
   ],
-
   "sermons": [
     {
       "videoId": "m2qDDnWe-eI",
@@ -28,6 +26,14 @@
       "date": "Jun 14, 2026",
       "youtubeUrl": "https://www.youtube.com/live/m2qDDnWe-eI",
       "thumbnailUrl": "https://i.ytimg.com/vi/m2qDDnWe-eI/maxresdefault.jpg"
+    },
+    {
+      "videoId": "dpi2PMNV5M0",
+      "title": "Don't waste your wait | 6.28.26 | Mark Earle",
+      "campus": "Scottsdale",
+      "date": "Jun 28, 2026",
+      "youtubeUrl": "https://youtu.be/dpi2PMNV5M0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/dpi2PMNV5M0/maxresdefault.jpg"
     },
     {
       "videoId": "8tT_vjf0PgU",
@@ -102,7 +108,6 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/S5h_ZIsjeCk/maxresdefault.jpg"
     }
   ],
-
   "newsItems": [
     {
       "id": "1",
@@ -140,7 +145,6 @@
       "inAppUrl": "https://www.instagram.com/rootedvc?igsh=ZHR6a2EzOW5wOTd3"
     }
   ],
-
   "readingPlans": [
     {
       "id": "anxiety-to-peace",
@@ -407,6 +411,395 @@
           "devotional": "Jesus ends our journey where He often begins: with an invitation to rest. \"Come to Me, all who are weary and burdened, and I will give you rest.\" The deepest rest is not physical—it is the rest that comes from finally, fully trusting God.\n\nWhen we stop trying to control outcomes, stop demanding our plan be followed, and stop carrying what only God can carry, we discover a peace that surpasses understanding. Trust is not weakness. Trust is the strongest thing you can do.",
           "reflection": "What would it feel like to fully release control of your biggest concern to God today?",
           "prayer": "Jesus, I come to You tired of striving and carrying what was never mine to carry. I choose rest. I choose trust. I choose You. Amen."
+        }
+      ]
+    }
+  ],
+  "verseOfTheDay": {
+    "reference": "Psalm 46:10",
+    "text": "Be still, and know that I am God."
+  },
+  "prayerOfTheDay": "Lord, guide our steps today. Give us wisdom for the decisions we face and peace that surpasses all understanding. Amen.",
+  "prayerPlans": [
+    {
+      "id": "1",
+      "title": "The Lord's Prayer",
+      "description": "Jesus gave us the Lord's Prayer as a model for how to pray with faith, humility, and dependence on God.",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/plan-lords-prayer.jpg",
+      "steps": [
+        {
+          "day": 1,
+          "title": "Our Father",
+          "prompt": "Begin by acknowledging God as your Father. Spend time simply resting in His presence and expressing gratitude for the relationship He has made possible through Jesus Christ."
+        },
+        {
+          "day": 2,
+          "title": "Hallowed Be Thy Name",
+          "prompt": "Praise God for who He is — His holiness, majesty, and perfection. Name the attributes of God that mean the most to you today and let worship lead you into prayer."
+        },
+        {
+          "day": 3,
+          "title": "Thy Kingdom Come",
+          "prompt": "Pray for God's kingdom to advance in your city, your family, and your workplace. Ask God to use you as an instrument of His kingdom in your sphere of influence today."
+        },
+        {
+          "day": 4,
+          "title": "Thy Will Be Done",
+          "prompt": "Surrender your own plans and desires to God's perfect will. Pray through the areas of your life where you need to trust Him more fully and release control."
+        },
+        {
+          "day": 5,
+          "title": "Give Us Our Daily Bread",
+          "prompt": "Bring your practical needs before God today. Trust Him as your provider in every area — financially, relationally, and spiritually. He sees exactly what you need."
+        },
+        {
+          "day": 6,
+          "title": "Forgive Us Our Debts",
+          "prompt": "Take time to confess where you have fallen short. Receive God's forgiveness fully, then ask for the grace to extend that same forgiveness to someone who has wronged you."
+        },
+        {
+          "day": 7,
+          "title": "Deliver Us from Evil",
+          "prompt": "Pray for protection over your mind, your family, and your community. Ask God for strength to resist temptation and the wisdom to walk in His ways every day."
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Praying Scripture",
+      "description": "Learn how to turn God's Word into powerful daily prayers by praying directly through the pages of Scripture.",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/plan-praying-scripture.jpg",
+      "steps": [
+        {
+          "day": 1,
+          "title": "Psalm 23",
+          "prompt": "Pray through the words of Psalm 23. Ask the Lord to be your shepherd today — to lead you, restore you, and comfort you in every valley you're walking through."
+        },
+        {
+          "day": 2,
+          "title": "Philippians 4:6-7",
+          "prompt": "Pray Philippians 4:6-7 over your anxieties. Turn each worry into a specific prayer of thanksgiving, and ask God for the peace that surpasses all understanding."
+        },
+        {
+          "day": 3,
+          "title": "Romans 8:28-39",
+          "prompt": "Pray Romans 8 over yourself and those you love. Declare that nothing can separate you from the love of God, and ask for confidence in His sovereign care over every detail of your life."
+        },
+        {
+          "day": 4,
+          "title": "Ephesians 3:14-21",
+          "prompt": "Pray Paul's prayer from Ephesians 3 over yourself and your family — to be rooted in love, filled with the fullness of God, and empowered to live beyond what you could ask or imagine."
+        },
+        {
+          "day": 5,
+          "title": "Psalm 51",
+          "prompt": "Pray through Psalm 51, David's prayer of repentance. Ask God to create in you a clean heart and renew a right spirit within you as you yield to His transforming work."
+        },
+        {
+          "day": 6,
+          "title": "Isaiah 40:28-31",
+          "prompt": "Pray Isaiah 40 over an area where you feel weary or overwhelmed. Ask God to renew your strength, lift you up like an eagle, and sustain you for the journey ahead."
+        },
+        {
+          "day": 7,
+          "title": "Colossians 1:9-12",
+          "prompt": "Pray Colossians 1:9-12 for wisdom and spiritual understanding — for yourself, your family, and your church. Ask God to fill you with knowledge of His will in all spiritual wisdom and understanding."
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Healing",
+      "description": "A prayer journey through God's promises for physical, emotional, and spiritual healing in your life and the lives of those you love.",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/plan-healing.jpg",
+      "steps": [
+        {
+          "day": 1,
+          "title": "He Heals the Brokenhearted",
+          "prompt": "Bring the broken places of your heart before God. Ask Him to draw near to the wounded areas of your life and begin a work of healing from the inside out."
+        },
+        {
+          "day": 2,
+          "title": "By His Stripes",
+          "prompt": "Meditate on Isaiah 53:5 and the healing purchased at the cross. Pray for physical healing — for yourself or someone you know who is suffering and in need of God's touch."
+        },
+        {
+          "day": 3,
+          "title": "Emotional Healing",
+          "prompt": "Ask God to heal you from pain, grief, trauma, or loss. Pray that He would bring comfort through His Holy Spirit and release you from the weight of past wounds."
+        },
+        {
+          "day": 4,
+          "title": "Healing in Relationships",
+          "prompt": "Pray for restoration in a broken relationship. Ask God to give you the courage to forgive and the humility to seek reconciliation where He is leading you."
+        },
+        {
+          "day": 5,
+          "title": "Community Healing",
+          "prompt": "Pray for healing in your city, your church, and your community. Ask God to bring peace where there is division and hope where there is despair."
+        },
+        {
+          "day": 6,
+          "title": "Healing Through Praise",
+          "prompt": "Spend this prayer time in worship. Praise God for who He is — Jehovah Rapha, the God who heals. Let gratitude become the atmosphere for the healing only He can bring."
+        },
+        {
+          "day": 7,
+          "title": "Wholeness in Christ",
+          "prompt": "Pray for complete wholeness — spirit, soul, and body. Declare that in Christ you are made whole, and ask Him to make that wholeness a living reality in your everyday experience."
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Praying for People Who Need God",
+      "description": "Pray intentionally for friends, family, coworkers, and others in your life who have not yet placed their faith in Christ.",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/plan-praying-for-people.jpg",
+      "steps": [
+        {
+          "day": 1,
+          "title": "Make Your List",
+          "prompt": "Write down the names of 3–5 people in your life who don't know Jesus. Bring each name before God and ask Him to begin softening their hearts toward the gospel."
+        },
+        {
+          "day": 2,
+          "title": "Pray for Open Doors",
+          "prompt": "Ask God to create natural opportunities for spiritual conversations this week. Pray for alignment and ask for boldness when He opens the door for you to share."
+        },
+        {
+          "day": 3,
+          "title": "Pray Against Spiritual Blindness",
+          "prompt": "Pray 2 Corinthians 4:4 over each person on your list. Ask God to open their eyes to the truth of the gospel and remove any barrier that is keeping them from seeing clearly."
+        },
+        {
+          "day": 4,
+          "title": "Pray for Their Needs",
+          "prompt": "Consider what each person is struggling with right now. Pray for their specific needs — and ask God to use those struggles as a doorway that draws them toward Him."
+        },
+        {
+          "day": 5,
+          "title": "Pray for Laborers",
+          "prompt": "Ask God to send other believers across the paths of those on your list. Pray that they would be surrounded by people who reflect the love and truth of Jesus in tangible ways."
+        },
+        {
+          "day": 6,
+          "title": "Pray with Faith",
+          "prompt": "Stand in faith for each person on your list. God is not willing for any to perish — He is pursuing them relentlessly. Pray with expectation, not despair."
+        },
+        {
+          "day": 7,
+          "title": "Pray and Go",
+          "prompt": "Ask God to make you the answer to your own prayer today. Pray for courage to reach out, to invite, to share — and then step out in faith and take action."
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Anxiety",
+      "description": "Trade your worry for the peace that surpasses all understanding.",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/plan-anxiety-prayer.jpg",
+      "steps": [
+        {
+          "day": 1,
+          "title": "Name What You Fear",
+          "prompt": "Bring your anxieties into the open before God. Don't minimize or spiritualize them — just name them honestly. God meets you where you are, not where you think you should be."
+        },
+        {
+          "day": 2,
+          "title": "Philippians 4:6-7",
+          "prompt": "Pray Philippians 4:6-7 over each specific worry. Turn every anxious thought into a prayer of thanksgiving — thank God for what He has already done and trust Him with what's ahead."
+        },
+        {
+          "day": 3,
+          "title": "Cast Your Cares",
+          "prompt": "Pray 1 Peter 5:7 over yourself today: \"Cast all your anxiety on Him because He cares for you.\" Deliberately release each burden to God and ask Him to carry what you were not designed to carry alone."
+        },
+        {
+          "day": 4,
+          "title": "The Peace That Guards",
+          "prompt": "Ask God for the peace that surpasses understanding — the kind that doesn't make sense given your circumstances. Pray that this peace would guard your heart and mind in Christ Jesus today."
+        },
+        {
+          "day": 5,
+          "title": "Renewing Your Mind",
+          "prompt": "Pray Romans 12:2 over your thought life. Ask God to help you identify the lies anxiety tells you and to replace them with the truth of who He is and what He says about you."
+        },
+        {
+          "day": 6,
+          "title": "He Is With You",
+          "prompt": "Pray Isaiah 41:10 out loud: \"Do not fear, for I am with you.\" Ask God to make His presence feel real and near today. Anxiety shrinks when we remember we are not facing our fears alone."
+        },
+        {
+          "day": 7,
+          "title": "A Future Without Fear",
+          "prompt": "Pray Jeremiah 29:11 over your future. Ask God to replace anxious thinking about tomorrow with confident trust in His plans. He holds your future — you can rest in that today."
+        }
+      ]
+    }
+  ],
+  "devotionalReadingPlans": [
+    {
+      "id": "r1",
+      "title": "Anxiety to Peace",
+      "description": "A 5-Day Bible Plan by Pastor Mark Earle. Replace fear with faith, worry with prayer, and panic with trust in God's sovereign care.",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/plan-anxiety.jpg",
+      "steps": [
+        {
+          "day": 1,
+          "title": "God Knows What You're Carrying",
+          "prompt": "Matthew 11:28-30\n\nAnxiety often convinces us that we must carry every burden ourselves. Jesus offers a different invitation: \"Come to Me.\" He doesn't ask us to fix everything before approaching Him. He simply asks us to come.\n\nWhatever is weighing on your heart today — finances, relationships, health, or the future — Jesus is strong enough to carry it. Peace begins when we stop pretending we're in control and place our burdens into His hands.\n\nReflection: What burden have you been carrying that God is asking you to surrender today?\n\nPrayer: Lord, I bring my worries and fears to You. Help me trust that You are carrying what I cannot. Amen."
+        },
+        {
+          "day": 2,
+          "title": "Prayer Is the Antidote to Worry",
+          "prompt": "Philippians 4:6-7\n\nPaul gives a simple but powerful command: \"Do not be anxious about anything.\" That sounds impossible until we read the rest of the verse. Instead of worrying, we are called to pray.\n\nPrayer is not pretending problems don't exist. Prayer is bringing our problems to the One who is greater than them. God's peace doesn't always remove the storm, but it guards our hearts in the middle of it.\n\nReflection: Are you spending more time worrying about your situation or praying about it?\n\nPrayer: Father, teach me to replace anxiety with prayer. Fill my heart with Your peace today. Amen."
+        },
+        {
+          "day": 3,
+          "title": "Trust God's Care",
+          "prompt": "Matthew 6:25-34\n\nJesus points to birds and flowers as reminders of God's care. If God faithfully provides for them, how much more does He care for His children?\n\nAnxiety often comes from trying to live tomorrow's problems today. Jesus reminds us that each day has enough trouble of its own. God gives grace for today's needs, not tomorrow's imagined disasters.\n\nReflection: What future concern is stealing your peace today?\n\nPrayer: Lord, help me focus on today's faithfulness rather than tomorrow's uncertainties. I trust You to provide what I need. Amen."
+        },
+        {
+          "day": 4,
+          "title": "Cast Your Cares on Him",
+          "prompt": "1 Peter 5:6-7\n\nPeter tells believers to cast their anxieties on God because He cares for them. The word \"cast\" means to throw something completely onto another.\n\nMany people give their worries to God only to pick them back up a few minutes later. Real trust means leaving those concerns in His hands and believing He is working even when we cannot see it.\n\nReflection: What worry do you keep taking back after giving it to God?\n\nPrayer: God, I choose to place my anxieties in Your hands. Help me trust Your care and Your timing. Amen."
+        },
+        {
+          "day": 5,
+          "title": "The Peace of Christ Rules",
+          "prompt": "Colossians 3:15\n\nThe Christian life is not the absence of difficulty but the presence of Christ. His peace is available even when circumstances are challenging.\n\nAs you finish this plan, remember that peace is not found in having all the answers. Peace is found in knowing the One who holds tomorrow. God has been faithful before, and He will be faithful again.\n\nReflection: How has God shown His faithfulness in your life in the past?\n\nPrayer: Jesus, thank You for being my peace. Help me walk forward in confidence, knowing You are with me every step of the way. Amen."
+        }
+      ]
+    },
+    {
+      "id": "r2",
+      "title": "Hope in the Face of Despair",
+      "description": "A 7-Day Bible Plan by Pastor Paul Earle. Hope is not a feeling. Hope is a Person. Walk through stories and promises that anchor your soul in the darkest seasons.",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/plan-hope.jpg",
+      "detailImageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/plan-hope-detail.jpg",
+      "steps": [
+        {
+          "day": 1,
+          "title": "When Hope Feels Gone",
+          "prompt": "Lamentations 3:19-24\n\nJeremiah wrote Lamentations in the rubble of a destroyed Jerusalem. He didn't sugarcoat the pain: \"I have been deprived of peace; I have forgotten what prosperity is.\" Yet in the very next breath he turned his eyes upward: \"The steadfast love of the Lord never ceases.\"\n\nDespair says nothing will ever change. Scripture says God's mercies are new every single morning. The same God who met Jeremiah in the ashes will meet you right where you are today.\n\nReflection: What situation feels most hopeless to you right now? Are you willing to bring it to God honestly?\n\nPrayer: Lord, I won't pretend things are fine when they're not. I bring my despair to You. Remind me that Your mercy is new this morning. Amen."
+        },
+        {
+          "day": 2,
+          "title": "The God Who Sees",
+          "prompt": "Genesis 16:13-14\n\nHagar was alone, cast out, and hopeless in the wilderness. Yet God met her there and gave her a promise. She named Him \"El Roi\" — the God who sees me.\n\nWhen despair isolates you and makes you feel invisible, remember Hagar. God does not overlook the brokenhearted. He sees every tear, every sleepless night, every prayer whispered into silence. You are not hidden from Him.\n\nReflection: Do you believe God truly sees your pain right now? What would it mean to trust that He does?\n\nPrayer: El Roi, God who sees me — thank You that I am never invisible to You. Help me find comfort in being fully known and fully loved. Amen."
+        },
+        {
+          "day": 3,
+          "title": "From the Pit to Praise",
+          "prompt": "Psalm 40:1-3\n\nDavid describes waiting on God from a \"desolate pit\" and \"miry bog.\" These are not polite metaphors — they describe genuine desperation. But he also describes what happened next: God lifted him out, set his feet on rock, and put a new song in his mouth.\n\nThe pit is not your permanent address. God specializes in rescues. Sometimes He lifts us out quickly; sometimes the waiting tests our faith. But He always comes.\n\nReflection: Can you think of a time God brought you out of a dark season? How can that story fuel your hope today?\n\nPrayer: Father, I am waiting for You to lift me out of this pit. Give me the faith to trust Your timing and the courage to wait. Amen."
+        },
+        {
+          "day": 4,
+          "title": "Anchored in the Storm",
+          "prompt": "Hebrews 6:17-19\n\nThe writer of Hebrews calls hope \"an anchor for the soul, firm and secure.\" Anchors don't stop the storm. They hold the ship in place when the waves come.\n\nBiblical hope is not wishful thinking. It is certainty grounded in the character of God. When feelings of despair rise like waves, our anchor is God's unchanging promises. You may feel shaken, but you will not be swept away.\n\nReflection: What promise from God's Word can you hold onto as an anchor today?\n\nPrayer: Lord, when the waves of despair crash over me, remind me that I am anchored to You. Let Your promises steady my soul. Amen."
+        },
+        {
+          "day": 5,
+          "title": "The Valley of Dry Bones",
+          "prompt": "Ezekiel 37:1-6\n\nGod brought Ezekiel to a valley full of dry bones and asked, \"Can these bones live?\" It was a question about resurrection — about whether God could bring life to what appeared completely dead.\n\nPerhaps your marriage, your health, your faith, or your future looks like dry bones right now. God is asking you the same question: \"Can these bones live?\" The answer is always yes when God is involved. He is the God of resurrection.\n\nReflection: What area of your life have you nearly given up on? What would it look like to hand it back to God?\n\nPrayer: God of resurrection, speak life over the dry places in me. I believe You can make dead things live again. Amen."
+        },
+        {
+          "day": 6,
+          "title": "He Restores the Broken",
+          "prompt": "Psalm 147:3\n\n\"He heals the brokenhearted and binds up their wounds.\" This single verse captures something profound about God's character — He is drawn to the broken.\n\nThe world often discards what is broken. God collects it. He is the potter who reshapes the marred clay, the shepherd who leaves the ninety-nine for the one, and the father who runs to the returning prodigal. Your brokenness is not a barrier to God's love — it is an invitation.\n\nReflection: How has brokenness made you feel about your relationship with God? Is there a wound you need to let Him bind up?\n\nPrayer: Healer, I bring You my broken places. Bind up my wounds, reshape what has been marred, and restore what the enemy has stolen. Amen."
+        },
+        {
+          "day": 7,
+          "title": "Hope Does Not Disappoint",
+          "prompt": "Romans 5:3-5\n\nPaul writes that suffering produces perseverance, which produces character, which produces hope. Hope, in Scripture, is not the absence of suffering — it is the fruit that grows from walking through it with God.\n\nAs you close this seven-day journey, know this: the despair that drove you here has not been wasted. God is at work in and through every painful season. The same love that raised Jesus from the dead is working all things together for good in your life.\n\nReflection: How have you seen God at work even in this difficult season? What step of faith will you take this week?\n\nPrayer: Lord, thank You that hope does not disappoint because Your love never fails. Lead me forward from despair to the hope that is found only in You. Amen."
+        }
+      ]
+    },
+    {
+      "id": "r3",
+      "title": "Living in the Spirit",
+      "description": "A 7-Day Bible Plan by Pastor Paul Earle. Explore who the Holy Spirit is, what He does, and how to live a life fully surrendered to His leading.",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/plan-spirit.jpg",
+      "detailImageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/plan-spirit-detail.jpg",
+      "steps": [
+        {
+          "day": 1,
+          "title": "Who Is the Holy Spirit?",
+          "prompt": "John 14:15-17\n\nJesus called the Holy Spirit the \"Helper\" — the One who would come alongside His followers after His departure. He is not an \"it.\" He is not a vague spiritual energy. He is the third Person of the Trinity, equal in nature to the Father and the Son.\n\nJesus described Him as one who would \"be with you forever\" and live inside of you. The Christian life is not about trying harder to follow rules — it is about yielding to the Spirit who lives within you.\n\nReflection: How have you thought about the Holy Spirit in the past? As a force, a feeling, or a Person?\n\nPrayer: Holy Spirit, I want to know You more deeply. Open my eyes to who You truly are and how You want to work in my life. Amen."
+        },
+        {
+          "day": 2,
+          "title": "The Spirit Who Transforms",
+          "prompt": "2 Corinthians 3:17-18\n\nPaul writes that we are being transformed \"from glory to glory\" by the Spirit of the Lord. Transformation is not our job — it is His. Our job is to yield.\n\nSanctification is not self-improvement. It is surrender. The more we yield our desires, our plans, and our habits to the Spirit, the more we reflect the image of Jesus. Lasting change comes not by willpower but by the Spirit's work in willing hearts.\n\nReflection: Where in your life are you striving in your own strength rather than yielding to the Spirit's work?\n\nPrayer: Lord, I yield my heart to You. Transform me from the inside out. Change what only You can change. Amen."
+        },
+        {
+          "day": 3,
+          "title": "Led by the Spirit",
+          "prompt": "Romans 8:14\n\n\"For all who are led by the Spirit of God are sons of God.\" Being led by the Spirit is one of the defining marks of a believer. But what does that look like practically?\n\nThe Spirit leads through Scripture, through prayer, through counsel, through circumstances, and through the quiet inner witness of our conscience. Learning to hear and follow His voice requires practice, patience, and a willingness to obey even when the path is unclear.\n\nReflection: Is there an area of your life where you sense the Spirit leading you somewhere you have been resisting?\n\nPrayer: Holy Spirit, I want to be led by You. Speak clearly to my heart, and give me the courage to follow wherever You lead. Amen."
+        },
+        {
+          "day": 4,
+          "title": "The Fruit of the Spirit",
+          "prompt": "Galatians 5:22-23\n\nLove, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control. These nine qualities are the fruit of a Spirit-filled life. They are not a checklist to perform — they are the natural overflow of a life surrendered to God.\n\nFruits grow on trees that are connected to their roots. When we stay rooted in Christ — through prayer, Scripture, community, and worship — the Spirit produces His fruit in us naturally.\n\nReflection: Which fruit of the Spirit is most underdeveloped in your life right now? What might be the root cause?\n\nPrayer: Father, help me stay rooted in You so that the Spirit can produce His fruit in every area of my life. Amen."
+        },
+        {
+          "day": 5,
+          "title": "Do Not Grieve the Spirit",
+          "prompt": "Ephesians 4:29-32\n\nPaul's warning not to \"grieve the Holy Spirit\" reveals something tender: the Spirit can be hurt by our choices. Bitterness, corrupt talk, malice — these things wound the One who lives within us.\n\nOne of the greatest invitations of the Christian life is to become more sensitive to the Spirit's presence. When we are about to speak harshly or harbor resentment, the Spirit nudges us. The question is whether we are listening.\n\nReflection: Is there anything in your life right now that may be grieving the Holy Spirit? What needs to change?\n\nPrayer: Holy Spirit, forgive me for the times I've ignored Your voice. Soften my heart and make me sensitive to Your leading. Amen."
+        },
+        {
+          "day": 6,
+          "title": "Filled and Refilled",
+          "prompt": "Ephesians 5:18\n\nPaul's command to \"be filled with the Spirit\" is written in the present continuous tense — be being filled, continually. This is not a one-time event but an ongoing experience.\n\nMost of us experience spiritual leaks. The pressures of life drain us. Daily surrender, daily prayer, and daily intake of God's Word are the means by which God refills what life empties. The Spirit-filled life is not a destination — it is a daily dependence.\n\nReflection: Are you experiencing the fullness of the Spirit today, or do you need to ask God to refill you?\n\nPrayer: Lord, fill me again today. Where I'm running low, pour in more of Your Spirit. I choose dependence over self-sufficiency. Amen."
+        },
+        {
+          "day": 7,
+          "title": "Walking in Step with the Spirit",
+          "prompt": "Galatians 5:25\n\n\"If we live by the Spirit, let us also walk by the Spirit.\" To walk in step with the Spirit means to move at His pace, in His direction, for His purposes.\n\nAs you conclude this plan, commit to one practice: before making a significant decision this week, pause and ask, \"Holy Spirit, what do You want here?\" This simple habit, practiced consistently, will transform your life more than almost anything else. The Spirit is not silent. He is waiting to be invited.\n\nReflection: What would it look like for you to walk more intentionally in step with the Spirit this week?\n\nPrayer: Holy Spirit, lead me. I don't want to walk ahead of You or fall behind. Keep me in step with Your purposes today and every day. Amen."
+        }
+      ]
+    },
+    {
+      "id": "r4",
+      "title": "Trusting God",
+      "description": "A 7-Day Bible Plan by Pastor Mark Earle. Trust is at the very heart of the Christian life — not just in words, but with our fears, plans, failures, and future.",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/plan-trust.jpg",
+      "detailImageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/plan-trust-detail.jpg",
+      "steps": [
+        {
+          "day": 1,
+          "title": "Trust Is a Choice",
+          "prompt": "Proverbs 3:5-6\n\n\"Trust in the Lord with all your heart and lean not on your own understanding.\" This verse is so familiar we can miss how radical it is. God is not asking us to trust Him when it makes sense. He is asking us to trust Him when it doesn't.\n\nTrust is not a feeling that arrives automatically — it is a daily decision. It means choosing to believe that God is good, God is in control, and God is working even when we cannot see it. That choice, made moment by moment, is the foundation of a life of faith.\n\nReflection: Where are you currently leaning on your own understanding rather than trusting God?\n\nPrayer: Lord, I choose to trust You today — not because everything makes sense, but because You are good. Direct my path. Amen."
+        },
+        {
+          "day": 2,
+          "title": "When God's Plan Doesn't Look Like Yours",
+          "prompt": "Isaiah 55:8-9\n\n\"My thoughts are not your thoughts, neither are your ways My ways.\" There is no verse that better captures the gap between what we expect from God and what He actually does.\n\nWe plan, and God redirects. We expect one outcome, and He provides another. This can feel like abandonment when it is actually guidance. God sees the whole story; we see only the chapter we're in. Learning to trust His bigger plan when ours falls apart is one of the most transformative lessons a believer can learn.\n\nReflection: Is there an area where God's plan and yours are not aligning? How are you responding to that tension?\n\nPrayer: Father, help me trust Your plan even when I don't understand it. Your ways are higher, and I choose to believe that today. Amen."
+        },
+        {
+          "day": 3,
+          "title": "The Steadfast Love of the Lord",
+          "prompt": "Psalm 136:1\n\nPsalm 136 repeats one refrain twenty-six times: \"His steadfast love endures forever.\" The repetition is intentional — it is hammering a truth into our souls that our circumstances often contradict.\n\nTrust grows when we dwell on what God has done. The psalmist recounts creation, the Exodus, provision in the wilderness — all evidence of God's faithfulness. What has God done in your life that you can remember today? Gratitude for the past is often the bridge to trust in the present.\n\nReflection: List three specific times God has been faithful to you. How do those moments inform your trust today?\n\nPrayer: Lord, Your steadfast love endures forever. Help me remember what You've done so I can trust You with what lies ahead. Amen."
+        },
+        {
+          "day": 4,
+          "title": "Trusting God With Unanswered Prayer",
+          "prompt": "2 Corinthians 12:7-10\n\nPaul prayed three times for his \"thorn\" to be removed. God said no. This was not a failure of faith — it was an invitation into a deeper kind of trust.\n\nSome of our most sincere prayers go unanswered in the way we hoped. God's silence is not indifference. Often, He is doing something deeper than answering our specific request — He is building a character in us that could not be forged any other way.\n\nReflection: What prayer have you been waiting on God to answer? How is the waiting shaping your character?\n\nPrayer: God, I trust You even with the prayers You haven't answered the way I hoped. Your grace is sufficient. That is enough. Amen."
+        },
+        {
+          "day": 5,
+          "title": "Trust and Obey",
+          "prompt": "Hebrews 11:8\n\nAbraham left for a land \"not knowing where he was going.\" He trusted God enough to move before he had all the answers. That is the model of biblical faith.\n\nTrust without obedience is just an idea. Real trust shows up in action — when we tithe even when the budget is tight, when we forgive even when the wound is fresh, when we step out even when the next step is unclear.\n\nReflection: Is there a step of obedience you've been delaying because you're waiting for more certainty?\n\nPrayer: Lord, give me the faith to obey even when I can't see the full picture. I trust that You will lead me as I step forward. Amen."
+        },
+        {
+          "day": 6,
+          "title": "In the Hands of a Good Father",
+          "prompt": "Matthew 7:9-11\n\nJesus asks a disarming question: \"Which of you, if your son asks for bread, will give him a stone?\" His point is simple — a good earthly father gives good gifts. How much more does your heavenly Father?\n\nTrust is easier when we see God not as a distant authority but as a good Father who delights in giving good things to His children. He is not withholding from you to punish you. He is providing for you — often in ways you have not yet recognized.\n\nReflection: Do you relate to God more like a judge or a good Father? How does that perception affect your ability to trust Him?\n\nPrayer: Abba Father, remind me that You are good and that You delight in giving good things to Your children. Let that truth transform how I trust You. Amen."
+        },
+        {
+          "day": 7,
+          "title": "The Rest That Comes From Trust",
+          "prompt": "Matthew 11:28-30\n\nJesus ends our journey where He often begins: with an invitation to rest. \"Come to Me, all who are weary and burdened, and I will give you rest.\" The deepest rest is not physical — it is the rest that comes from finally, fully trusting God.\n\nWhen we stop trying to control outcomes, stop demanding our plan be followed, and stop carrying what only God can carry, we discover a peace that surpasses understanding. Trust is not weakness. Trust is the strongest thing you can do.\n\nReflection: What would it feel like to fully release control of your biggest concern to God today?\n\nPrayer: Jesus, I come to You tired of striving and carrying what was never mine to carry. I choose rest. I choose trust. I choose You. Amen."
         }
       ]
     }

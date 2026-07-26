@@ -552,6 +552,44 @@
           "prompt": "Pray Jeremiah 29:11 over your future. Ask God to replace anxious thinking about tomorrow with confident trust in His plans. He holds your future — you can rest in that today."
         }
       ]
+    },
+    {
+      "id": "6",
+      "title": "Forgiveness",
+      "description": "A prayer journey discovering freedom through Christ's forgiveness, grace, healing, and restored relationships.",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/plan-forgiveness.jpg",
+      "steps": [
+        {
+          "day": 1,
+          "title": "Forgiven by Christ",
+          "prompt": "Remember the incredible forgiveness you've received through Jesus. Thank Him for removing your sin and making you new. Ask Him to help you live in the confidence of His mercy and extend that same grace to others."
+        },
+        {
+          "day": 2,
+          "title": "Release Bitterness",
+          "prompt": "Bring every hurt, offense, and disappointment before God. Ask Him to remove bitterness, resentment, and anger from your heart, replacing them with His peace and compassion."
+        },
+        {
+          "day": 3,
+          "title": "Forgive Others",
+          "prompt": "Pray for those who have hurt you. Choose to forgive—not because their actions were right, but because Christ has forgiven you. Ask God to free your heart from the burden of unforgiveness."
+        },
+        {
+          "day": 4,
+          "title": "Seek Reconciliation",
+          "prompt": "Ask God for wisdom and courage to restore relationships wherever possible. Pray for humility, honest conversations, and hearts that are open to healing and reconciliation."
+        },
+        {
+          "day": 5,
+          "title": "Forgive Yourself",
+          "prompt": "If you're carrying guilt or shame, surrender it to Jesus. Thank Him that His forgiveness is complete and sufficient. Ask Him to help you live in the freedom of His grace instead of the weight of your past."
+        },
+        {
+          "day": 6,
+          "title": "Walk in Grace",
+          "prompt": "Pray that forgiveness would become a daily way of life. Ask the Holy Spirit to help you respond with mercy, patience, kindness, and love, reflecting the heart of Christ in every relationship."
+        }
+      ]
     }
   ],
   "devotionalReadingPlans": [

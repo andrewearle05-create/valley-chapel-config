@@ -1,6 +1,15 @@
 {
   "version": 1,
-  "heroes": [],
+  "heroes": [
+    {
+      "campus": "Scottsdale",
+      "title": "Valley Chapel Scottsdale | 7.20.26",
+      "videoId": "Meh1iVo34c8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Meh1iVo34c8/maxresdefault.jpg",
+      "date": "Jul 20, 2026",
+      "youtubeUrl": "https://www.youtube.com/live/Meh1iVo34c8"
+    }
+  ],
   "sermons": [],
   "newsItems": [
     {

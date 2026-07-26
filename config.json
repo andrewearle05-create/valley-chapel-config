@@ -2,10 +2,24 @@
   "version": 1,
   "heroes": [
     {
+      "campus": "Gilbert",
+      "title": "Summer in the Psalms | Part 6 | Pastor Paul Earle | 7.27.26",
+      "displayTitle": "Summer in the Psalms Part 6",
+      "series": "Summer in the Psalms",
+      "speaker": "Paul Earle",
+      "videoId": "-OWWlI5rLeM",
+      "thumbnailUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/gilbert-jul27.png",
+      "date": "Jul 27, 2026",
+      "youtubeUrl": "https://www.youtube.com/live/-OWWlI5rLeM"
+    },
+    {
       "campus": "Scottsdale",
-      "title": "Valley Chapel Scottsdale | 7.20.26",
+      "title": "What We Need | The Holy Spirit | Mark Earle | 7.20.26",
+      "displayTitle": "The Holy Spirit",
+      "series": "What We Need",
+      "speaker": "Mark Earle",
       "videoId": "Meh1iVo34c8",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Meh1iVo34c8/maxresdefault.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/scottsdale-jul20.png",
       "date": "Jul 20, 2026",
       "youtubeUrl": "https://www.youtube.com/live/Meh1iVo34c8"
     }

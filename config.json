@@ -72,7 +72,7 @@
       "author": "Pastor Mark Earle",
       "description": "Anxiety is one of the most common struggles people face. God never promises a life free from problems, but He does promise His presence, peace, and strength in every season. Over the next five days, you'll discover what Scripture teaches about anxiety and learn how to replace fear with faith, worry with prayer, and panic with trust in God's sovereign care.",
       "accentColor": "#4EB6AC",
-      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/images/plan-anxiety.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/images/plan-anxiety.jpg?v=2",
       "finalThought": "\"Anxiety grows when we focus on what we cannot control. Peace grows when we focus on the God who controls all things. Whatever you're facing today, remember: God is not surprised, God is not absent, and God is not finished with your story.\"",
       "finalThoughtAuthor": "Pastor Mark Earle",
       "days": [
@@ -127,7 +127,7 @@
       "author": "Pastor Paul Earle",
       "description": "Despair can make the world feel dark and God feel distant. But Scripture is filled with people who faced crushing hopelessness—and found God faithful in the depths. Over the next seven days, we will walk through stories and promises that anchor our souls when the storms of life threaten to overwhelm us. Hope is not a feeling. Hope is a Person.",
       "accentColor": "#3A8CC4",
-      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/images/plan-hope.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/images/plan-hope.jpg?v=2",
       "finalThought": "\"When you cannot see the way forward, remember that God has not lost the map. He is writing a story you cannot yet read. Stay the course. Dawn always follows the darkest night.\"",
       "finalThoughtAuthor": "Pastor Paul Earle",
       "days": [
@@ -198,7 +198,7 @@
       "author": "Pastor Paul Earle",
       "description": "The Holy Spirit is not a force or a feeling—He is a Person, and He is God. Many believers live far below what God intends because they have never learned to walk in step with the Spirit. Over seven days, we will explore who the Holy Spirit is, what He does, and how to live a life fully surrendered to His leading.",
       "accentColor": "#3768C8",
-      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/images/plan-spirit.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/images/plan-spirit.jpg?v=2",
       "finalThought": "\"The Spirit-filled life is not a special class of Christianity. It is the only kind of Christianity Christ intends for all of His people. Don't settle for anything less than everything God has for you.\"",
       "finalThoughtAuthor": "Pastor Paul Earle",
       "days": [
@@ -269,7 +269,7 @@
       "author": "Pastor Mark Earle",
       "description": "Trust is easy to talk about and hard to practice—especially when life does not go the way we planned. Yet trust is at the very heart of the Christian life. Over the next seven days, we will explore what it means to genuinely trust God: not just with words, but with our fears, our plans, our failures, and our future.",
       "accentColor": "#3535C0",
-      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/images/plan-trust.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/images/plan-trust.jpg?v=2",
       "finalThought": "\"God has never once failed to be faithful. Your circumstances may be uncertain, but His character is not. Choose trust—not because it is easy, but because He is worthy.\"",
       "finalThoughtAuthor": "Pastor Mark Earle",
       "days": [
@@ -342,7 +342,7 @@
       "id": "1",
       "title": "The Lord's Prayer",
       "description": "Jesus gave us the Lord's Prayer as a model for how to pray with faith, humility, and dependence on God.",
-      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/plan-lords-prayer.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/plan-lords-prayer.jpg?v=2",
       "steps": [
         {
           "day": 1,
@@ -385,7 +385,7 @@
       "id": "2",
       "title": "Praying Scripture",
       "description": "Learn how to turn God's Word into powerful daily prayers by praying directly through the pages of Scripture.",
-      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/plan-praying-scripture.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/plan-praying-scripture.jpg?v=2",
       "steps": [
         {
           "day": 1,
@@ -428,7 +428,7 @@
       "id": "3",
       "title": "Healing",
       "description": "A prayer journey through God's promises for physical, emotional, and spiritual healing in your life and the lives of those you love.",
-      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/plan-healing.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/plan-healing.jpg?v=2",
       "steps": [
         {
           "day": 1,
@@ -471,7 +471,7 @@
       "id": "4",
       "title": "Praying for People Who Need God",
       "description": "Pray intentionally for friends, family, coworkers, and others in your life who have not yet placed their faith in Christ.",
-      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/plan-praying-for-people.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/plan-praying-for-people.jpg?v=2",
       "steps": [
         {
           "day": 1,
@@ -514,7 +514,7 @@
       "id": "5",
       "title": "Anxiety",
       "description": "Trade your worry for the peace that surpasses all understanding.",
-      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/plan-anxiety-prayer.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/plan-anxiety-prayer.jpg?v=2",
       "steps": [
         {
           "day": 1,
@@ -557,7 +557,7 @@
       "id": "6",
       "title": "Forgiveness",
       "description": "A prayer journey discovering freedom through Christ's forgiveness, grace, healing, and restored relationships.",
-      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/plan-forgiveness.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/plan-forgiveness.jpg?v=2",
       "steps": [
         {
           "day": 1,
@@ -597,7 +597,7 @@
       "id": "r1",
       "title": "Anxiety to Peace",
       "description": "A 5-Day Bible Plan by Pastor Mark Earle. Replace fear with faith, worry with prayer, and panic with trust in God's sovereign care.",
-      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/plan-anxiety.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/plan-anxiety.jpg?v=2",
       "steps": [
         {
           "day": 1,
@@ -630,7 +630,7 @@
       "id": "r2",
       "title": "Hope in the Face of Despair",
       "description": "A 7-Day Bible Plan by Pastor Paul Earle. Hope is not a feeling. Hope is a Person. Walk through stories and promises that anchor your soul in the darkest seasons.",
-      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/plan-hope.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/plan-hope.jpg?v=2",
       "detailImageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/plan-hope-detail.jpg",
       "steps": [
         {
@@ -674,7 +674,7 @@
       "id": "r3",
       "title": "Living in the Spirit",
       "description": "A 7-Day Bible Plan by Pastor Paul Earle. Explore who the Holy Spirit is, what He does, and how to live a life fully surrendered to His leading.",
-      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/plan-spirit.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/plan-spirit.jpg?v=2",
       "detailImageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/plan-spirit-detail.jpg",
       "steps": [
         {
@@ -718,7 +718,7 @@
       "id": "r4",
       "title": "Trusting God",
       "description": "A 7-Day Bible Plan by Pastor Mark Earle. Trust is at the very heart of the Christian life — not just in words, but with our fears, plans, failures, and future.",
-      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/plan-trust.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/plan-trust.jpg?v=2",
       "detailImageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/plan-trust-detail.jpg",
       "steps": [
         {

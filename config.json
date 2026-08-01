@@ -3,14 +3,14 @@
   "heroes": [
     {
       "campus": "Gilbert",
-      "title": "Summer in the Psalms | Part 6 | Pastor Paul Earle | 7.20.26",
-      "displayTitle": "Summer in the Psalms Part 6",
+      "title": "Summer in the Psalms | Part 7 | Pastor Paul Earle | 8.3.26",
+      "displayTitle": "Summer in the Psalms Part 7",
       "series": "Summer in the Psalms",
       "speaker": "Paul Earle",
-      "videoId": "-OWWlI5rLeM",
-      "thumbnailUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/gilbert-jul20.png",
-      "date": "Jul 20, 2026",
-      "youtubeUrl": "https://www.youtube.com/live/-OWWlI5rLeM"
+      "videoId": "cYgnaalfXwg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/gilbert-aug3.png",
+      "date": "Aug 3, 2026",
+      "youtubeUrl": "https://www.youtube.com/live/cYgnaalfXwg"
     },
     {
       "campus": "Scottsdale",

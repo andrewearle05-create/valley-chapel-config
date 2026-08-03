@@ -595,8 +595,7 @@
   "homeHero": {
     "title": "Part 7",
     "subtitle": "Jul 26 · Summer in the Psalms",
-    "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/fellowship.jpg",
-    "action": "https://www.youtube.com/live/cYgnaalfXwg",
+    "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/hero-fellowship.jpg",
     "enabled": true
   },
   "devotionalReadingPlans": [

@@ -3,24 +3,24 @@
   "heroes": [
     {
       "campus": "Gilbert",
-      "title": "Summer in the Psalms | Part 7 | Pastor Paul Earle | 8.3.26",
+      "title": "Summer in the Psalms | Part 7 | Pastor Paul Earle | 8.2.26",
       "displayTitle": "Summer in the Psalms Part 7",
       "series": "Summer in the Psalms",
       "speaker": "Paul Earle",
       "videoId": "9URkm6M8KA4",
       "thumbnailUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/gilbert-aug3.png",
-      "date": "Aug 3, 2026",
+      "date": "Aug 2, 2026",
       "youtubeUrl": "https://www.youtube.com/live/9URkm6M8KA4?si=Ot8NiYLdzOdlR23l"
     },
     {
       "campus": "Scottsdale",
-      "title": "Be Bold | Steve Watson | 8.3.26",
+      "title": "Be Bold | Steve Watson | 8.2.26",
       "displayTitle": "Be Bold",
       "series": "ASU Football Chaplain",
       "speaker": "Steve Watson",
       "videoId": "06nv7LdMInU",
       "thumbnailUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/scottsdale-aug3.png",
-      "date": "Aug 3, 2026",
+      "date": "Aug 2, 2026",
       "youtubeUrl": "https://www.youtube.com/live/06nv7LdMInU?si=H3cYbmRRkBalnygX"
     }
   ],

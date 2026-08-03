@@ -595,6 +595,10 @@
   "homeHero": {
     "title": "Sunday at Valley Chapel",
     "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/fellowship.jpg",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/fellowship.jpg",
+      "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/hero-fellowship.jpg"
+    ],
     "enabled": true
   },
   "devotionalReadingPlans": [

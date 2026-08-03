@@ -593,9 +593,10 @@
     }
   ],
   "homeHero": {
-    "title": "Valley Chapel",
-    "subtitle": "Gilbert · Scottsdale",
+    "title": "Part 7",
+    "subtitle": "Jul 26 · Summer in the Psalms",
     "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/fellowship.jpg",
+    "action": "https://www.youtube.com/live/cYgnaalfXwg",
     "enabled": true
   },
   "devotionalReadingPlans": [

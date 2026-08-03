@@ -592,6 +592,12 @@
       ]
     }
   ],
+  "homeHero": {
+    "title": "Valley Chapel",
+    "subtitle": "Gilbert · Scottsdale",
+    "imageUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/fellowship.jpg",
+    "enabled": true
+  },
   "devotionalReadingPlans": [
     {
       "id": "r1",

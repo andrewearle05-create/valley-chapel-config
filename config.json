@@ -3,25 +3,25 @@
   "heroes": [
     {
       "campus": "Gilbert",
-      "title": "Church is Spelled Family | Pastor Paul Earle | 8.2.26",
-      "displayTitle": "Church is Spelled Family",
-      "series": "Family",
+      "title": "Aug 10 | Pastor Paul Earle | 8.10.26",
+      "displayTitle": "Aug 10",
+      "series": "",
       "speaker": "Paul Earle",
-      "videoId": "9URkm6M8KA4",
-      "thumbnailUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/gilbert-aug3.png",
-      "date": "Aug 2, 2026",
-      "youtubeUrl": "https://www.youtube.com/live/9URkm6M8KA4?si=Ot8NiYLdzOdlR23l"
+      "videoId": "CmrLq6sT6V0",
+      "thumbnailUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/gilbert-aug10.png",
+      "date": "Aug 10, 2026",
+      "youtubeUrl": "https://www.youtube.com/live/CmrLq6sT6V0?si=Y0VEI8WeDUxUOuR9"
     },
     {
       "campus": "Scottsdale",
-      "title": "Be Bold | Steve Watson | 8.2.26",
-      "displayTitle": "Be Bold",
-      "series": "ASU Football Chaplain",
-      "speaker": "Steve Watson",
-      "videoId": "06nv7LdMInU",
-      "thumbnailUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/scottsdale-aug3.png?v=2",
-      "date": "Aug 2, 2026",
-      "youtubeUrl": "https://www.youtube.com/live/06nv7LdMInU?si=H3cYbmRRkBalnygX"
+      "title": "Aug 10 | 8.10.26",
+      "displayTitle": "Aug 10",
+      "series": "",
+      "speaker": "",
+      "videoId": "pJ3lnvkk0jk",
+      "thumbnailUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/scottsdale-aug10.png",
+      "date": "Aug 10, 2026",
+      "youtubeUrl": "https://www.youtube.com/live/pJ3lnvkk0jk?si=4YzNhYTL3rcSuxM5"
     }
   ],
   "sermons": [],

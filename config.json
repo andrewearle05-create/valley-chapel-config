@@ -3,25 +3,25 @@
   "heroes": [
     {
       "campus": "Gilbert",
-      "title": "Following God Closely | Jeff Reinhart | 8.9.26",
-      "displayTitle": "Following God Closely",
-      "series": "Guest Speaker",
-      "speaker": "Jeff Reinhart",
-      "videoId": "CmrLq6sT6V0",
-      "thumbnailUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/gilbert-aug10.png",
-      "date": "Aug 9, 2026",
-      "youtubeUrl": "https://www.youtube.com/live/CmrLq6sT6V0?si=Y0VEI8WeDUxUOuR9"
+      "title": "Your Life is Speaking | Paul Earle | 8.23.26",
+      "displayTitle": "Your Life is Speaking",
+      "series": "Life",
+      "speaker": "Paul Earle",
+      "videoId": "YfFyEygdxBg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/gilbert-aug23.png",
+      "date": "Aug 23, 2026",
+      "youtubeUrl": "https://www.youtube.com/live/YfFyEygdxBg?si=ShSd3ray893IkFIJ"
     },
     {
       "campus": "Scottsdale",
-      "title": "Tight-Knit Community | Caleb McMains | 8.9.26",
-      "displayTitle": "Tight-Knit Community",
+      "title": "Trust God More | Mark Earle | 8.23.26",
+      "displayTitle": "Trust God More",
       "series": "What We Need",
-      "speaker": "Caleb McMains",
-      "videoId": "pJ3lnvkk0jk",
-      "thumbnailUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/scottsdale-aug10.png",
-      "date": "Aug 9, 2026",
-      "youtubeUrl": "https://www.youtube.com/live/pJ3lnvkk0jk?si=4YzNhYTL3rcSuxM5"
+      "speaker": "Mark Earle",
+      "videoId": "o3yzcHUIXJY",
+      "thumbnailUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/scottsdale-aug23.png",
+      "date": "Aug 23, 2026",
+      "youtubeUrl": "https://www.youtube.com/live/o3yzcHUIXJY?si=0sVWjaXrrC-OVw2p"
     }
   ],
   "sermons": [],

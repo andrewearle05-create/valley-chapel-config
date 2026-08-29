@@ -3,24 +3,24 @@
   "heroes": [
     {
       "campus": "Gilbert",
-      "title": "Following God Closely | Jeff Reinhart | 8.10.26",
+      "title": "Following God Closely | Jeff Reinhart | 8.9.26",
       "displayTitle": "Following God Closely",
       "series": "Guest Speaker",
       "speaker": "Jeff Reinhart",
       "videoId": "CmrLq6sT6V0",
       "thumbnailUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/gilbert-aug10.png",
-      "date": "Aug 10, 2026",
+      "date": "Aug 9, 2026",
       "youtubeUrl": "https://www.youtube.com/live/CmrLq6sT6V0?si=Y0VEI8WeDUxUOuR9"
     },
     {
       "campus": "Scottsdale",
-      "title": "Tight-Knit Community | Caleb McMains | 8.10.26",
+      "title": "Tight-Knit Community | Caleb McMains | 8.9.26",
       "displayTitle": "Tight-Knit Community",
       "series": "What We Need",
       "speaker": "Caleb McMains",
       "videoId": "pJ3lnvkk0jk",
       "thumbnailUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/scottsdale-aug10.png",
-      "date": "Aug 10, 2026",
+      "date": "Aug 9, 2026",
       "youtubeUrl": "https://www.youtube.com/live/pJ3lnvkk0jk?si=4YzNhYTL3rcSuxM5"
     }
   ],

@@ -3,24 +3,24 @@
   "heroes": [
     {
       "campus": "Gilbert",
-      "title": "Your Life is Speaking Part 2 | Paul Earle | 8.31.26",
+      "title": "Your Life is Speaking Part 2 | Paul Earle | 8.30.26",
       "displayTitle": "Your Life is Speaking Part 2",
       "series": "Life",
       "speaker": "Paul Earle",
       "videoId": "2AZbCfNz4OY",
       "thumbnailUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/gilbert-aug31.png",
-      "date": "Aug 31, 2026",
+      "date": "Aug 30, 2026",
       "youtubeUrl": "https://www.youtube.com/live/2AZbCfNz4OY?si=vmaBICQ_m9JnJ9lE"
     },
     {
       "campus": "Scottsdale",
-      "title": "Life by the Spirit | Mark Earle | 8.31.26",
+      "title": "Life by the Spirit | Mark Earle | 8.30.26",
       "displayTitle": "Life by the Spirit",
       "series": "Fruit of the Spirit",
       "speaker": "Mark Earle",
       "videoId": "vQmxuh1tmlw",
       "thumbnailUrl": "https://raw.githubusercontent.com/andrewearle05-create/valley-chapel-config/main/scottsdale-aug31.png",
-      "date": "Aug 31, 2026",
+      "date": "Aug 30, 2026",
       "youtubeUrl": "https://www.youtube.com/live/vQmxuh1tmlw?si=xbx-GUWjoZvMpauU"
     }
   ],

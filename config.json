@@ -24,7 +24,10 @@
       "youtubeUrl": "https://www.youtube.com/live/E8Hh5mdl9Uc?si=JOQPZu7kT9nLLj7_"
     }
   ],
-  "sermons": [],
+  "sermons": [
+    { "videoId": "2AZbCfNz4OY", "title": "Your Life is Speaking Part 2 | Paul Earle | 8.30.26", "campus": "Gilbert", "date": "Aug 30, 2026", "youtubeUrl": "https://www.youtube.com/live/2AZbCfNz4OY?si=vmaBICQ_m9JnJ9lE", "thumbnailUrl": "https://i.ytimg.com/vi/2AZbCfNz4OY/maxresdefault.jpg" },
+    { "videoId": "vQmxuh1tmlw", "title": "Life by the Spirit | Mark Earle | 8.30.26", "campus": "Scottsdale", "date": "Aug 30, 2026", "youtubeUrl": "https://www.youtube.com/live/vQmxuh1tmlw?si=xbx-GUWjoZvMpauU", "thumbnailUrl": "https://i.ytimg.com/vi/vQmxuh1tmlw/maxresdefault.jpg" }
+  ],
   "newsItems": [
     {
       "id": "1",
